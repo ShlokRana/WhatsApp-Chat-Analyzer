@@ -113,7 +113,7 @@ if uploaded_file is not None:
         ax.barh(most_common_df[0], most_common_df[1])
         plt.xticks(rotation='vertical')
 
-        st.title('Most commmon words')
+        st.title('Most common words')
         st.pyplot(fig)
 
         # emoji analysis
