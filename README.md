@@ -1,5 +1,5 @@
 # WhatsApp Chat Analyzer
-Deployed on heroku (check this link to access the website, website may be slow and take some time to open because of free deployment services)
+Deployed on Streamlit (check this link to access the website, website may be slow and take some time to open because of free deployment services)
 <a href="https://shlokrana-whatsapp-chat-analyzer-app-fx1pw2.streamlit.app/" target="_blank">WhatsApp Chat Analyzer</a>
 ## Note:- Please export your chats in DD/MM/YY and 12 hours format.
 <br></br>
